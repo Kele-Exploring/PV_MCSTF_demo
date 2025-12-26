@@ -2,8 +2,8 @@
 A time series data imaging technique and spatio-temporal fusion network for anomaly diagnosis in photovoltaic power generation systems.
 
 # Dataset
-该项目中使用的数据集可以从[Synthetic Anomaly Dataset of Photovoltaic Power Generation](https://doi.org/10.5281/zenodo.8248701)中下载。
-该数据集是由上海交通大学人工智能研究院人工智能重点实验室发布，包含1类正常和6类异常类型。
+The dataset utilised in this project may be downloaded from [Synthetic Anomaly Dataset of Photovoltaic Power Generation](https://doi.org/10.5281/zenodo.8248701).  
+This dataset, published by the Key Laboratory of Artificial Intelligence at the Institute of Artificial Intelligence, Shanghai Jiao Tong University, comprises one normal class and six abnormal classes.  
 Each system collects observational data exclusively within the time window from 03:45 to 21:30 Beijing time, with a sampling frequency of 15 minutes. 
 As a result, each time series sample obtained contains 72 successive time points.
 每个系统仅在03:45至21:30北京时间的时间窗口内采集观测数据，采样频率为15分钟。
