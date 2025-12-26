@@ -18,6 +18,6 @@ torch 1.9.0+cu111
 torchvission 0.10.0+cu111
 
 # How to run
-首先，运行'''dataset_MCSTF.py'''获得MCSTF图像数据集；
+首先，运行dataset_MCSTF.py获得MCSTF图像数据集；
 然后，设置正确的图像与时序数据读取路径；
 最后，运行main.py文件，获得训练、验证和测试结果。
