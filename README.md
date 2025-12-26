@@ -13,7 +13,7 @@ Three non-overlapping sites (30100119, 30100137, 30100146) were selected from th
 The samples from the remaining six sites were reassigned to the train set.
 The sample ratio is approximately 8:2, with the training set containing 8,796 samples and the test set containing 2,256 samples.  
 
-# 环境需求
+# Environmental requirements
 torch 1.9.0+cu111  
 torchvission 0.10.0+cu111
 
